@@ -1,5 +1,11 @@
 # MyBooks
 
+Now that I have your attention, let me have a few comments about the solution:
+
+* There were errors when i did `npm install` right after cloning the original repo. I did not fix those errors as I think this exercise was not about that.
+* I have not used any state management system, so there is a bit of prop drilling. If you wanted me to use Redux, I can change it ;) 
+* I wrote my own simple debounce using just `useEffect`
+
 ## TL;DR
 
 To get started developing right away:
