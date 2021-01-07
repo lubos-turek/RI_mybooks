@@ -1,6 +1,8 @@
-# MyBooks
+![hello](https://media1.tenor.com/images/7446f34a377c958e00783b55c84ae29a/tenor.gif?itemid=3578889)
 
-Now that I have your attention, let me have a few comments about the solution:
+Hello to you! Now that I got your attention let me explain...
+
+# ...How I approached this
 
 * There were errors when i did `npm install` right after cloning the original repo. I did not fix those errors as I think this exercise was not about that.
 * I have not used any state management system, so there is a bit of prop drilling. If you wanted me to use Redux, I can change it ;) 
